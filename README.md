@@ -3,6 +3,14 @@
 stats.py is all that i run, 
 
 
+
+---------
+
+
+## everything below is the original guys README, not mine 
+
+
+
 # LCD
 This repository contains all of the code for interfacing with a 16x2 Character I2C LCD Display. This accompanies my YouTube tutorial here: https://www.youtube.com/watch?v=fR5XhHYzUK0 
 
