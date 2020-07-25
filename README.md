@@ -1,3 +1,8 @@
+## code shamelessly stolen from "the raspberry pi guy, beaten into working in my setup, stored here for me, and maybe you?
+
+stats.py is all that i run, 
+
+
 # LCD
 This repository contains all of the code for interfacing with a 16x2 Character I2C LCD Display. This accompanies my YouTube tutorial here: https://www.youtube.com/watch?v=fR5XhHYzUK0 
 
